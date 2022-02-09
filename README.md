@@ -1,5 +1,6 @@
 # Text-Classification-using-Bert
 This code won me Instabase Encipher Hackathon 2022
+![image](https://user-images.githubusercontent.com/45576314/153232282-2f08756a-951e-4d83-a23a-6110acbff7e0.png)
 
 * Instabase Encipher Hackathon 2022 was organized from 10 Jan'22 to 31 Jan'22.
 * It was organized on Dare2Compete platform.
