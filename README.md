@@ -24,5 +24,15 @@ All the rounds were eliminatory
   I was provided with 26 legal clauses extracted from credit agreements along with their labels.The mission was to come up with a model that will help classify the given passages into their legal clause types.  
   Refer to [complete problem statement](https://github.com/ishitajain123/Text-Classification-using-Bert/blob/main/Instabase%20Encipher%20Problem%20Statement%20(1)%20Text%20Classification.pdf)
   
+  ### My approach
+* [**LSTM Model(Artificial RNN)**](https://colab.research.google.com/drive/1-1i0S_kIAQDDggv8sFn-Ao2csQTbz2WR?usp=sharing)   
+The performance of the LSTM model on test data was not good.It was overfitting on the training data.It was not the best for capturing  the true meaning of words.  
+* [**Bert model (pretrained on BookCorpus dataset)**](https://colab.research.google.com/drive/1kc_ypj5diUcdQyjpGWmhQY-k7R2BbYqH?usp=sharing)  
+The model was not able to fit the training data well. It was underfitting. The accuracy was not so good in this model. It was not able to capture the law terminology which might be the reason for its poor performance. I wanted to pretrain it on some law data so that it gets familiar with the terminology.
+* [**Fine tuning bert model(Pretrained on law data)** ]( https://github.com/ishitajain123/Text-Classification-using-Bert/blob/main/Ishita_Jain_text_classification_Submission_code.ipynb)  
+Finally,the pretrained bert model got familiar with law terminology and was fine tuned with my augmented training data. It produced accurate results and was working well.
+
+
+  
   
 
