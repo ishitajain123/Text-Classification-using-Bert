@@ -19,12 +19,12 @@ All the rounds were eliminatory
   The top 26 participants shortlisted presented their solutions to the esteemed jury and winners were declared.Shortlisted students interveiwed with Instabase for FTE and 
   intern roles on the same day.I am glad to say that I got first prize and a FTE offer from Instabase.Prize money was Rs200000 for winner, Rs100000 for first runner up and       Rs50000 for second runner up.7 students were given FTE and Intern offers(Package - CTC ₹31.32L + ESOPs worth ₹15L + Benefits).
   
-  ## Introduction
-  ### Problem Statement-*Text Classification*
+  # Introduction
+  ## Problem Statement-*Text Classification*
   I was provided with 26 legal clauses extracted from credit agreements along with their labels.The mission was to come up with a model that will help classify the given passages into their legal clause types.  
   Refer to [complete problem statement](https://github.com/ishitajain123/Text-Classification-using-Bert/blob/main/Instabase%20Encipher%20Problem%20Statement%20(1)%20Text%20Classification.pdf)
   
-  ### My approach
+  ## My approach
   **MODEL OPTIONS CONSIDERED**  
   
 * [**LSTM Model(Artificial RNN)**](https://colab.research.google.com/drive/1-1i0S_kIAQDDggv8sFn-Ao2csQTbz2WR?usp=sharing)   
@@ -36,13 +36,13 @@ Finally,the pretrained bert model got familiar with law terminology and was fine
 
 * Check [comparison of three models](https://github.com/ishitajain123/Text-Classification-using-Bert/blob/main/Comparision%20of%203%20models.pdf)
 
-### [Final Solution- Bert Model](https://github.com/ishitajain123/Text-Classification-using-Bert/blob/main/Ishita_Jain_text_classification_Submission_code.ipynb)
+## [Final Solution- Bert Model](https://github.com/ishitajain123/Text-Classification-using-Bert/blob/main/Ishita_Jain_text_classification_Submission_code.ipynb)
 * Bert, stands for Bidirectional Encoder Representations for Transformers.
 * Firstly, input data given in the problem statement had some 25 data points which was very less. So, I made some more data points from [law insider website](https://www.lawinsider.com/clauses) and prepared a [csv file](https://github.com/ishitajain123/Text-Classification-using-Bert/blob/main/inputs_final.csv).The 5 given labels were encoded using one-hot encoding as it was a classic multiclass classification problem.
 * Input sentences were encoded using *Bert Tokenizers*. Tokenization is a process to take raw texts and split into tokens, which are numeric data to represent words. Used custom datasets class to feed data into our model.
 * Transformers gave Bert its increased capacity for understanding context and ambiguity in languages. Bert model pre-trained on law dataset was fine tuned using our training data.
 
-### Model metrics
+## Model metrics
 * For the final model: Average values-  
 * Validation accuracy = 90.00%  
 * F1 score(micro) = 0.90  
