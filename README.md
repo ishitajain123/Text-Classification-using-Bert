@@ -15,5 +15,6 @@ All the rounds were eliminatory
 * **Cliff 3 - Problem Statement Launch**
   Submit prototypes/solutions based on the dynamic problem statement shared!.Two problem statements were shared.Participant had to do any one of them.One was a -TEXT             CLASSIFICATION problem and one was DISTRIBUTED WORKFLOW PROCESSING problem.I decided to do Text classification problem.Participants were given 2 days to submit their           solutions.They had to submit the code, powerpoint presentation and a video explaining the solution.
 * **Cliff 4 - Finale and IB Interviews**
-  The top 26 participants shortlisted presented their solutions to the esteemed jury and winners were declared.I am glad to say that I got first prize and a FTE offer from       Instabase.
+  The top 26 participants shortlisted presented their solutions to the esteemed jury and winners were declared.Shortlisted students interveiwed with Instabase for FTE and 
+  intern roles on the same day.I am glad to say that I got first prize and a FTE offer from Instabase.Prize money was Rs200000 for winner, Rs100000 for first runner up and       Rs50000 for second runner up.7 students were given FTE and Intern offers.
 
