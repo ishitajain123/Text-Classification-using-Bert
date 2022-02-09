@@ -34,6 +34,8 @@ The model was not able to fit the training data well. It was underfitting. The a
 * [**Fine tuning bert model(Pretrained on law data)** ]( https://github.com/ishitajain123/Text-Classification-using-Bert/blob/main/Ishita_Jain_text_classification_Submission_code.ipynb)  
 Finally,the pretrained bert model got familiar with law terminology and was fine tuned with my augmented training data. It produced accurate results and was working well.
 
+Check [comparison of three models](https://github.com/ishitajain123/Text-Classification-using-Bert/blob/main/Comparision%20of%203%20models.pdf)
+
 ### [Final Solution- Bert Model](https://github.com/ishitajain123/Text-Classification-using-Bert/blob/main/Ishita_Jain_text_classification_Submission_code.ipynb)
 * Bert, stands for Bidirectional Encoder Representations for Transformers.
 * Firstly, input data given in the problem statement had some 25 data points which was very less. So, I made some more data points from [law insider website](https://www.lawinsider.com/clauses) and prepared a [csv file](https://github.com/ishitajain123/Text-Classification-using-Bert/blob/main/inputs_final.csv).The 5 given labels were encoded using one-hot encoding as it was a classic multiclass classification problem.
@@ -41,15 +43,15 @@ Finally,the pretrained bert model got familiar with law terminology and was fine
 * Transformers gave Bert its increased capacity for understanding context and ambiguity in languages. Bert model pre-trained on law dataset was fine tuned using our training data.
 
 ### Model metrics
-For the final model: Average values-  
-Validation accuracy = 90.00%  
-F1 score(micro) = 0.90  
-F1 score(macro) = 0.86  
-Precision = 0.93  
-Recall = 0.9  
-Random search was used for the hyperparameter optimization of our model   
-Accuracy on the training set is 100%  
-Accuracy on validation set was 80%, but after adding regularization I was able to achieve 90% validation accuracy(which is neither overfitting nor underfitting I believe)  
+* For the final model: Average values-  
+* Validation accuracy = 90.00%  
+* F1 score(micro) = 0.90  
+* F1 score(macro) = 0.86  
+* Precision = 0.93  
+* Recall = 0.9  
+* Random search was used for the hyperparameter optimization of our model   
+* Accuracy on the training set is 100%  
+* Accuracy on validation set was 80%, but after adding regularization I was able to achieve 90% validation accuracy(which is neither overfitting nor underfitting I believe)  
 
 
 
