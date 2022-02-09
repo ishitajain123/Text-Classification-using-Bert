@@ -34,6 +34,12 @@ The model was not able to fit the training data well. It was underfitting. The a
 * [**Fine tuning bert model(Pretrained on law data)** ]( https://github.com/ishitajain123/Text-Classification-using-Bert/blob/main/Ishita_Jain_text_classification_Submission_code.ipynb)  
 Finally,the pretrained bert model got familiar with law terminology and was fine tuned with my augmented training data. It produced accurate results and was working well.
 
+### [Final Solution- Bert Model](https://github.com/ishitajain123/Text-Classification-using-Bert/blob/main/Ishita_Jain_text_classification_Submission_code.ipynb)
+* Bert, stands for Bidirectional Encoder Representations for Transformers.
+* Firstly, input data given in the problem statement had some 25 data points which was very less. So, I made some more data points from [law insider website](https://www.lawinsider.com/clauses) and prepared a [csv file](https://github.com/ishitajain123/Text-Classification-using-Bert/blob/main/inputs_final.csv).The 5 given labels were encoded using one-hot encoding as it was a classic multiclass classification problem.
+* Input sentences were encoded using *Bert Tokenizers*. Tokenization is a process to take raw texts and split into tokens, which are numeric data to represent words. Used custom datasets class to feed data into our model.
+* Transformers gave Bert its increased capacity for understanding context and ambiguity in languages. Bert model pre-trained on law dataset was fine tuned using our training data.
+
 
   
   
