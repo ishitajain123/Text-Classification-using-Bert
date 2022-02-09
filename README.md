@@ -54,6 +54,12 @@ Finally,the pretrained bert model got familiar with law terminology and was fine
 * Accuracy on validation set was 80%, but after adding regularization I was able to achieve 90% validation accuracy(which is neither overfitting nor underfitting I believe)  
 ![image](https://user-images.githubusercontent.com/45576314/153241595-7ec86ef6-491d-4c5a-9b04-d37f0f3b10cc.png)
 
+## Further Improvements
+* More accuracy can be obtained if we have more data.
+* Bert can be pre-trained on multiple law datasets and fine tuned using our dataset(As of now we pre- trained  it on only  one law dataset)
+* A larger version of Bert might be used which is computationally expensive.
+* One of the weaknesses when using Bert architecture is that it is limited to 512 tokens,that means the maximum sequence length allowed as input is 512 words.
+
 
 
   
