@@ -18,4 +18,8 @@ All the rounds were eliminatory
 * **Cliff 4 - Finale and IB Interviews**(26 participants shortlisted)  
   The top 26 participants shortlisted presented their solutions to the esteemed jury and winners were declared.Shortlisted students interveiwed with Instabase for FTE and 
   intern roles on the same day.I am glad to say that I got first prize and a FTE offer from Instabase.Prize money was Rs200000 for winner, Rs100000 for first runner up and       Rs50000 for second runner up.7 students were given FTE and Intern offers(Package - CTC ₹31.32L + ESOPs worth ₹15L + Benefits).
+  
+  ## Introduction
+  ### Problem Statement-*Text Classification*
+  
 
