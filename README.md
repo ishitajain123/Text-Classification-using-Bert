@@ -34,7 +34,7 @@ The model was not able to fit the training data well. It was underfitting. The a
 * [**Fine tuning bert model(Pretrained on law data)** ]( https://github.com/ishitajain123/Text-Classification-using-Bert/blob/main/Ishita_Jain_text_classification_Submission_code.ipynb)  
 Finally,the pretrained bert model got familiar with law terminology and was fine tuned with my augmented training data. It produced accurate results and was working well.
 
-Check [comparison of three models](https://github.com/ishitajain123/Text-Classification-using-Bert/blob/main/Comparision%20of%203%20models.pdf)
+* Check [comparison of three models](https://github.com/ishitajain123/Text-Classification-using-Bert/blob/main/Comparision%20of%203%20models.pdf)
 
 ### [Final Solution- Bert Model](https://github.com/ishitajain123/Text-Classification-using-Bert/blob/main/Ishita_Jain_text_classification_Submission_code.ipynb)
 * Bert, stands for Bidirectional Encoder Representations for Transformers.
@@ -52,6 +52,7 @@ Check [comparison of three models](https://github.com/ishitajain123/Text-Classif
 * Random search was used for the hyperparameter optimization of our model   
 * Accuracy on the training set is 100%  
 * Accuracy on validation set was 80%, but after adding regularization I was able to achieve 90% validation accuracy(which is neither overfitting nor underfitting I believe)  
+![image](https://user-images.githubusercontent.com/45576314/153241595-7ec86ef6-491d-4c5a-9b04-d37f0f3b10cc.png)
 
 
 
