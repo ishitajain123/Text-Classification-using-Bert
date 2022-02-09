@@ -51,7 +51,8 @@ Finally,the pretrained bert model got familiar with law terminology and was fine
 * Recall = 0.9  
 * Random search was used for the hyperparameter optimization of our model   
 * Accuracy on the training set is 100%  
-* Accuracy on validation set was 80%, but after adding regularization I was able to achieve 90% validation accuracy(which is neither overfitting nor underfitting I believe)  
+* Accuracy on validation set was 80%, but after adding regularization I was able to achieve 90% validation accuracy(which is neither overfitting nor underfitting I believe)
+* Check [test datasets](https://github.com/ishitajain123/Text-Classification-using-Bert/blob/main/output%20_final.csv) given and their [predictions](https://github.com/ishitajain123/Text-Classification-using-Bert/blob/main/predictions_final.json) with confidence score.  
 ![image](https://user-images.githubusercontent.com/45576314/153241595-7ec86ef6-491d-4c5a-9b04-d37f0f3b10cc.png)
 
 ## Further Improvements
