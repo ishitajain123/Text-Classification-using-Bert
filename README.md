@@ -9,7 +9,7 @@ This code won me Instabase Encipher Hackathon 2022
 ## Stages of Encipher
 All the rounds were eliminatory
 * **Cliff 1-Coding Fundamentals**
-  A competitive programming round based on Coding fundamentals(2 coding problems)
+    A competitive programming round based on Coding fundamentals(2 coding problems)
 * **Cliff 2-Encipher Code Pro**
   Participants had to code in a stipulated time period to advance further.(3 Coding problems)
 * **Cliff 3 - Problem Statement Launch**
