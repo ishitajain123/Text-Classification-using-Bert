@@ -21,5 +21,8 @@ All the rounds were eliminatory
   
   ## Introduction
   ### Problem Statement-*Text Classification*
+  I was provided with 26 legal clauses extracted from credit agreements along with their labels.The mission was to come up with a model that will help classify the given passages into their legal clause types.  
+  Refer to [complete problem statement](https://github.com/ishitajain123/Text-Classification-using-Bert/blob/main/Instabase%20Encipher%20Problem%20Statement%20(1)%20Text%20Classification.pdf)
+  
   
 
