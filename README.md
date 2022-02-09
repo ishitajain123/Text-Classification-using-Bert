@@ -25,6 +25,8 @@ All the rounds were eliminatory
   Refer to [complete problem statement](https://github.com/ishitajain123/Text-Classification-using-Bert/blob/main/Instabase%20Encipher%20Problem%20Statement%20(1)%20Text%20Classification.pdf)
   
   ### My approach
+  **MODEL OPTIONS CONSIDERED**  
+  
 * [**LSTM Model(Artificial RNN)**](https://colab.research.google.com/drive/1-1i0S_kIAQDDggv8sFn-Ao2csQTbz2WR?usp=sharing)   
 The performance of the LSTM model on test data was not good.It was overfitting on the training data.It was not the best for capturing  the true meaning of words.  
 * [**Bert model (pretrained on BookCorpus dataset)**](https://colab.research.google.com/drive/1kc_ypj5diUcdQyjpGWmhQY-k7R2BbYqH?usp=sharing)  
