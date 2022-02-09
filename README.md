@@ -13,5 +13,5 @@ All the rounds were eliminatory
 * **Cliff 3 - Problem Statement Launch**
   Submit prototypes/solutions based on the dynamic problem statement shared!.Two problem statements were shared.Participant had to do any one of them.One was a -TEXT             CLASSIFICATION problem and one was DISTRIBUTED WORKFLOW PROCESSING problem.I decided to do Text classification problem.Participants were given 2 days to submit their           solutions.They had to submit the code, powerpoint presentation and a video explaining the solution.
 * **Cliff 4 - Finale and IB Interviews**
-  The top 26 participants shortlisted presented their solutions to the esteemed jury and winners will be declared.I am glad to say that I got first prize and a FTE offer from     Instabase.
+  The top 26 participants shortlisted presented their solutions to the esteemed jury and winners were declared.I am glad to say that I got first prize and a FTE offer from       Instabase.
 
