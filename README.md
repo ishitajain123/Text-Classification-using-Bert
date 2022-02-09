@@ -40,6 +40,18 @@ Finally,the pretrained bert model got familiar with law terminology and was fine
 * Input sentences were encoded using *Bert Tokenizers*. Tokenization is a process to take raw texts and split into tokens, which are numeric data to represent words. Used custom datasets class to feed data into our model.
 * Transformers gave Bert its increased capacity for understanding context and ambiguity in languages. Bert model pre-trained on law dataset was fine tuned using our training data.
 
+### Model metrics
+For the final model: Average values-  
+Validation accuracy = 90.00%  
+F1 score(micro) = 0.90  
+F1 score(macro) = 0.86  
+Precision = 0.93  
+Recall = 0.9  
+Random search was used for the hyperparameter optimization of our model   
+Accuracy on the training set is 100%  
+Accuracy on validation set was 80%, but after adding regularization I was able to achieve 90% validation accuracy(which is neither overfitting nor underfitting I believe)  
+
+
 
   
   
