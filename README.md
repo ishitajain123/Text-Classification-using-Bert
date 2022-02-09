@@ -4,7 +4,7 @@ This code won me Instabase Encipher Hackathon 2022
 * Instabase Encipher Hackathon 2022 was organized from 10 Jan'22 to 31 Jan'22.
 * It was organized on Dare2Compete platform.
 * This opportunity was open to passionate women pursuing their pre-final or final year BTech and IDD course from 100+ Engineering institutes in India.
-* There were almost 2800 partcipants from different engineering colleges.
+* There were almost 2800 participants from different engineering colleges.
 
 ## Stages of Encipher
 All the rounds were eliminatory
